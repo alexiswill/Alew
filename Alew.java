@@ -2,7 +2,6 @@ package ale;
 
 import robocode.HitRobotEvent;
 import robocode.Robot;
-import robocode.Rules;
 import robocode.ScannedRobotEvent;
 
 import java.awt.*;
